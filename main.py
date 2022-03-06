@@ -149,3 +149,4 @@ while main_loop:
     for i in sum_list:
         i.point_print()
     pygame.display.flip()
+//오르골 리ㅏ액ㄳ견
