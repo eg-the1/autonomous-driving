@@ -58,7 +58,11 @@ def sum_list_func(i):
                 sum_count+=1
                 return True
             return False
-
+def shrm(key:list,m:dict):
+    sum_list = list()
+    key = sort(key)
+    for i in key:
+        sum_list.append({})
 pygame.init()
 intro_text = text()
 # size = pygame.display.Info()
